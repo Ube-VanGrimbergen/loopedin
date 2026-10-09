@@ -1,0 +1,12 @@
+{
+  "name": "loopedin",
+  "version": "0.1.0",
+  "description": "Stay in the loop while Claude builds. Learn mode has you reason about the approach while Claude writes the code; fast mode stays out of the way.",
+  "author": {
+    "name": "Ube Van Grimbergen"
+  },
+  "homepage": "https://github.com/Ube-VanGrimbergen/loopedin",
+  "repository": "https://github.com/Ube-VanGrimbergen/loopedin",
+  "license": "MIT",
+  "keywords": ["learning", "mentoring", "pairing", "onboarding", "codebase"]
+}

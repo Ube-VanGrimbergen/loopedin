@@ -1,0 +1,14 @@
+{
+  "name": "loopedin",
+  "owner": {
+    "name": "Ube Van Grimbergen"
+  },
+  "description": "loopedin: stay in the loop while Claude builds.",
+  "plugins": [
+    {
+      "name": "loopedin",
+      "source": "./",
+      "description": "Learn mode has you reason about the approach while Claude writes the code; fast mode stays out of the way."
+    }
+  ]
+}
